@@ -65,6 +65,7 @@
         </dependency>
 
 
+<!--        Spring与Mybatis整合编码-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
